@@ -1,0 +1,1 @@
+cp -ruv * /media/nathan/[drosmigs]/home-linux/web-server/20220212-psikotest/
