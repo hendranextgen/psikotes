@@ -2,58 +2,55 @@
 
 /* === SOAL === */
 .soal .col {
-    /* border: solid 1px #baadda; */
-    max-width: 90px;
+  /* border: solid 1px #baadda; */
+  max-width: 90px;
 }
 
 .soal .col-no {
-    max-width: 57px;
+  max-width: 57px;
 }
 
 .soal .col-blank {
-    max-width: 10px;
+  max-width: 10px;
 }
 
 .soal .col img {
-    max-width: 100%;
-    padding-left: -50px;
-    padding-right: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+  max-width: 100%;
+  padding-left: -50px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 /* === PILIHAN === */
 .pilihan .row {
-    /* border: solid yellow; */
-    max-width: fit-content;
-    float: left;
-    padding-right: 1rem;
+  /* border: solid yellow; */
+  max-width: fit-content;
+  float: left;
+  padding-right: 1rem;
 }
 
 .pilihan .col-opt {
-    align-self: center;
-    max-width: fit-content;
-    padding-right: 5px;
-    margin-right: 0px;
+  align-self: center;
+  max-width: fit-content;
+  padding-right: 5px;
+  margin-right: 0px;
 }
 
 .pilihan .col-opt-img {
-    max-width: none;
-    max-width: fit-content;
-    padding-left: 0px;
-    margin-left: 0px;
+  max-width: none;
+  max-width: fit-content;
+  padding-left: 0px;
+  margin-left: 0px;
 }
 
 .pilihan img {
-    max-width: 50px;
+  max-width: 50px;
 }
 
 /* === RESPONSIVE === */
-"display": (
-    responsive: true,
-    print: true,
-    property: display,
-    class: d,
-    values: inline inline-block block grid table table-row table-cell flex inline-flex none
-  )
-  
+"display": (responsive: true,
+  print: true,
+  property: display,
+  class: d,
+  values: inline inline-block block grid table table-row table-cell flex inline-flex none)
